@@ -1,7 +1,7 @@
 # Personal Portfolio
 
 Live versions:
-- GitHub Pages: https://ikgopoleng=del.github.io/portfolio/
+- GitHub Pages: https://ikgopoleng-del.github.io/portfolio/
 - Render: https://your-render-url.onrender.com
 
 ## Tech Stack
